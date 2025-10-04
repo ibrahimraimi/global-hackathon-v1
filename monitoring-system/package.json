@@ -22,7 +22,6 @@
     "dev": "next dev",
     "format": "prettier --write .",
     "format:check": "prettier --check .",
-    "postinstall": "npm run type-check",
     "lint": "next lint"
   },
   "dependencies": {
