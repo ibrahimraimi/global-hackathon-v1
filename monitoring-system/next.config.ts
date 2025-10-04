@@ -13,12 +13,6 @@ const nextConfig: NextConfig = {
     formats: ["image/webp", "image/avif"],
   },
 
-  // Performance optimizations
-  experimental: {
-    optimizeCss: true,
-    optimizePackageImports: ["lucide-react", "@radix-ui/react-icons"],
-  },
-
   // Security headers
   async headers() {
     return [
