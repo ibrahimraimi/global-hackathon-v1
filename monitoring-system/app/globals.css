@@ -4,7 +4,6 @@
 @custom-variant dark (&:is(.dark *));
 
 :root {
-  /* Updated theme to match Vercel's dark monitoring dashboard */
   --background: oklch(0.08 0 0);
   --foreground: oklch(0.98 0 0);
   --card: oklch(0.12 0 0);
@@ -39,7 +38,7 @@
   --sidebar-border: oklch(0.18 0 0);
   --sidebar-ring: oklch(0.65 0 0);
 
-  /* Monitor Hub specific colors */
+  /* Monitor Hubb specific colors */
   --success: oklch(0.7 0.15 160);
   --warning: oklch(0.8 0.2 60);
   --error: oklch(0.62 0.25 29);
@@ -82,7 +81,6 @@
 }
 
 @theme inline {
-  /* Update font variables to match the new Google Fonts setup */
   --font-sans: var(--font-sans);
   --font-mono: var(--font-mono);
   --color-background: var(--background);

@@ -1,5 +1,5 @@
 export const APP_CONFIG = {
-  name: "Monitor Hubb",
+  name: "Monitor Hubbb",
   description:
     "Web application monitoring platform with real-time alerts and analytics",
   version: "1.0.0",

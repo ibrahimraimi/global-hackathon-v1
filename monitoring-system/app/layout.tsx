@@ -20,7 +20,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Monitor Hubb - Web Application Monitoring",
+  title: "Monitor Hubbb - Web Application Monitoring",
   description:
     "Monitor your APIs, websites, databases, and webhooks with real-time alerts and analytics",
   keywords: [
@@ -30,9 +30,9 @@ export const metadata: Metadata = {
     "website monitoring",
     "alerts",
   ],
-  authors: [{ name: "Monitor Hubb" }],
-  creator: "Monitor Hubb",
-  publisher: "Monitor Hubb",
+  authors: [{ name: "Monitor Hubbb" }],
+  creator: "Monitor Hubbb",
+  publisher: "Monitor Hubbb",
   robots: {
     index: true,
     follow: true,
@@ -48,14 +48,14 @@ export const metadata: Metadata = {
     type: "website",
     locale: "en_US",
     url: "",
-    title: "Monitor Hubb - Web Application Monitoring",
+    title: "Monitor Hubbb - Web Application Monitoring",
     description:
       "Monitor your APIs, websites, databases, and webhooks with real-time alerts and analytics",
-    siteName: "Monitor Hubb",
+    siteName: "Monitor Hubbb",
   },
   twitter: {
     card: "summary_large_image",
-    title: "Monitor Hubb - Web Application Monitoring",
+    title: "Monitor Hubbb - Web Application Monitoring",
     description:
       "Monitor your APIs, websites, databases, and webhooks with real-time alerts and analytics",
   },

@@ -2,7 +2,7 @@ export const env = {
   // App Configuration
   NODE_ENV: process.env.NODE_ENV || "development",
   APP_URL:
-    process.env.NEXT_PUBLIC_APP_URL || "https://monitor-hub-kappa.vercel.app",
+    process.env.NEXT_PUBLIC_APP_URL || "https://monitor-hubb-kappa.vercel.app",
 
   // Supabase Configuration
   SUPABASE_URL: process.env.NEXT_PUBLIC_SUPABASE_URL!,
